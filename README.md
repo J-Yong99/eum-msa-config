@@ -1,0 +1,2 @@
+# eum-msa-config
+configuration
