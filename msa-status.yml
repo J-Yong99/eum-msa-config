@@ -1,3 +1,2 @@
-spring:
-  datasource:
-    name:test-msa-status
+msaconfig:
+  greeting: "i am msa-status"
