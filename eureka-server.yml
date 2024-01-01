@@ -1,3 +1,2 @@
-spring:
-  datasource:
-    name:test-msa-book
+msaconfig:
+  greeting: "i am Eureka"
