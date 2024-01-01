@@ -1,3 +1,2 @@
-spring:
-  datasource:
-    name:test-msa-order  
+msaconfig:
+  greeting: "i am msa-memebr"
